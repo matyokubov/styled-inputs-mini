@@ -1,6 +1,6 @@
 {
   "name": "styled-inputs-mini",
-  "version": "1.0.1",
+  "version": "1.0.3",
   "description": "Styled text inputs for React",
   "keywords": ["react", "styled-components", "inputs"],
   "main": "index.js",

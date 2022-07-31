@@ -86,6 +86,8 @@ const Input = styled.input`
         outline: 0;
         box-shadow: ${getShadowColor};
         border-bottom: ${({theme})=>theme==="classic" ? "2px solid #24808f" : "auto"};
+        position: relative;
+        z-index: 1;
     }
     ${getThemeForInput}
 `;
