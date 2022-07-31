@@ -24,7 +24,7 @@ This package simple creates text input fields for react-app
 | :-------- | :------- |
 | `light`      | Input, MergeInputs |
 | `dark`      | Input, MergeInputs |
-| `classic`      | Input, MergeInputs |
+| `classic`      | Input |
 
 ## Author
 
