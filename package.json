@@ -1,0 +1,23 @@
+{
+  "name": "styled-inputs-mini",
+  "version": "1.0.1",
+  "description": "Styled text inputs for React",
+  "keywords": ["react", "styled-components", "inputs"],
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/matyokubov/styled-inputs-mini.git"
+  },
+  "author": "matyokubov",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/matyokubov/styled-inputs-mini/issues"
+  },
+  "homepage": "https://github.com/matyokubov/styled-inputs-mini#readme",
+  "dependencies": {
+    "styled-components": "^5.3.5"
+  }
+}
