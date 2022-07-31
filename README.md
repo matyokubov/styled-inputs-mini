@@ -10,7 +10,7 @@ This package simple creates text input fields for react-app
 
 | Component | What     |
 | :-------- | :------- |
-| `<Input placeholder="Enter a text"/>` | Single input field |
+| `<Input placeholder="Enter a text" width="CSS value of width property"/>` | Single input field |
 | `<Hint>Hint text</Hint>` | The hint for `<Input/>` |
 | `<MergeInputs>Hint components and Input components</MergeInputs>` | This component Hint components and input fields merges |
 
